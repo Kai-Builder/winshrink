@@ -1,0 +1,8 @@
+//
+// Created by seymo on 1/31/2021.
+//
+
+#ifndef WINSHRINK_SHELLVARIABLES_H
+#define WINSHRINK_SHELLVARIABLES_H
+
+#endif //WINSHRINK_SHELLVARIABLES_H
